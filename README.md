@@ -74,5 +74,3 @@ As an Associate Systems Engineer and a dedicated DevOps learner, I focus on stre
  </a>
 
 </p>
-<br clear="both">
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
