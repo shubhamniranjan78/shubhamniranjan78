@@ -16,7 +16,7 @@ As an Associate Systems Engineer and a dedicated DevOps learner, I focus on stre
 * 🗣️ **Pronouns**: You can call me Logan.
 * ✨ **Fun Fact**: I believe each new day brings the opportunity to explore fascinating facets of technology and continuous improvement.
 
-## DevOps Skills 🛠️
+## DevOps Skills 🛠️         
 <p align="center">
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40" />
@@ -49,8 +49,10 @@ As an Associate Systems Engineer and a dedicated DevOps learner, I focus on stre
        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
    </a>
 </p>
-
+<p align="center">
+ Leveraging All Amazing Automation Tools, Just Deploying Perfectly Good Kubernetes
 <img src="https://raw.githubusercontent.com/shubhamniranjan78/shubhamniranjan78/output/snake.svg" alt="Snake animation" />
+</p>
 
 ## Featured Projects 🌟
 *   **Project 1: Simple Notes App**
