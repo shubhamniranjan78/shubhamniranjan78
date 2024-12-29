@@ -21,8 +21,6 @@ As an Associate Systems Engineer and a dedicated DevOps learner, I focus on stre
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40" />
     </a>
-    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/aws/aws-icon.svg" alt="AWS" width="40" height="40" />
     </a>
      <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
        <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40"/>
@@ -63,9 +61,7 @@ As an Associate Systems Engineer and a dedicated DevOps learner, I focus on stre
 ## Let's Connect! 🌐
 <p align="center">
   <a href="https://bold.pro/my/shubham-niranjan-241110002926" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/bold.pro/bold.pro-icon.svg" alt="My Portfolio" width="40" height="40" />
-   ### Snake Animation 🐍
-![Snake animation](https://raw.githubusercontent.com/shubhamniranjan78/shubhamniranjan78/output/snake.svg)
+   
 </a>
   <a href="https://www.linkedin.com/in/shubham-niranjan/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" />
@@ -73,8 +69,6 @@ As an Associate Systems Engineer and a dedicated DevOps learner, I focus on stre
  <a href="https://shubham78.hashnode.dev" target="_blank" rel="noreferrer">
  <img src="https://www.vectorlogo.zone/logos/hashnode/hashnode-icon.svg" alt="My Hashnode Blog" width="40" height="40" />
  </a>
-  <a href="https://discordapp.com/users/shubham_7599/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="Discord" width="40" height="40" />
  </a>
 
 </p>
