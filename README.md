@@ -47,6 +47,8 @@ As an Associate Systems Engineer and a dedicated DevOps learner, I focus on stre
    </a>
 </p>
 
+<img src="https://raw.githubusercontent.com/<username>/<repository>/output/snake.svg" alt="Snake animation" />
+
 ## Featured Projects 🌟
 *   **Project 1: Simple Notes App**
     *   A simple notes app built with React and Django.
