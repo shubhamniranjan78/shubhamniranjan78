@@ -62,6 +62,8 @@ As an Associate Systems Engineer and a dedicated DevOps learner, I focus on stre
 <p align="center">
   <a href="https://bold.pro/my/shubham-niranjan-241110002926" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/bold.pro/bold.pro-icon.svg" alt="My Portfolio" width="40" height="40" />
+   ### Snake Animation 🐍
+![Snake animation](https://raw.githubusercontent.com/shubhamniranjan78/shubhamniranjan78/output/snake.svg)
 </a>
   <a href="https://www.linkedin.com/in/shubham-niranjan/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" />
