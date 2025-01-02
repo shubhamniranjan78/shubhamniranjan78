@@ -1,7 +1,5 @@
 # Hi, I'm Shubham Niranjan! 👋
-<p align="center">
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjQxMmk0dW90ZGY5bHVxdDRubDRvdGR1enlkem9wYWd1anpmNGhzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46x0L1K1b5U8H63b/giphy.gif" width="400" height ="300" alt="Animated Computer Setup" />
-</p>
+
 Welcome to my GitHub profile! I am a DevOps and Cloud enthusiast committed to mastering the world of development and operations through hands-on projects and continuous learning.
 
 ## About Me 🚀
